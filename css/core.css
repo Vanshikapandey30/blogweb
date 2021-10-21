@@ -719,9 +719,10 @@ input[type="cancel"] {
 	display:block;
 	font-family:"Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size:20px;
-	font-size:1.25rem;
+	font-size:2.5rem;
 	font-weight:700;
 	text-transform:uppercase;
+	color: #000;
 }
 
 @media (min-width: 768px) {
@@ -752,7 +753,8 @@ input[type="cancel"] {
 	font-family:"Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size:20px;
 	font-size:1.25rem;
-	font-weight:300;
+	font-weight:900;
+	color: #000;
 }
 #main-menu ul.horizontal-navigation > li.active {}
 #main-menu ul.horizontal-navigation > li.active a {
@@ -795,26 +797,25 @@ input[type="cancel"] {
 #page-title .entry-title {
 	font-family:"Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size:32px;
-	font-size:2rem;
-	font-weight:300;
+	font-size:2.5rem;
+	font-weight:800;
 	line-height:1;
+	color: #000;
 }
 #page-title .description {
 	margin:16px 0 0;
 	margin:1rem 0 0;
+	color: #000;
 }
 
 @media (min-width: 768px) {
 
 	#page-title {
 		padding:64px 0;
-		padding:4rem 0;
+		padding:2rem 0;
 	}
 
 }
-
-
-
 /* ====================================================
 	06. Content
    ==================================================== */
